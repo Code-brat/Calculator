@@ -42,6 +42,6 @@ To run the calculator app locally, follow these steps:
 ## Contact
 For questions or feedback, feel free to reach out:
 - LinkedIn: [linkedin.com/in/ara19](https://www.linkedin.com/in/ara19)
-- Email: [abooabdulrahman2005@gmail.com](abooabdulrahman2005@gmail.com)
+- Email: abooabdulrahman2005@gmail.com
 
 Happy Coding!
